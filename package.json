@@ -1,0 +1,25 @@
+{
+  "name": "exitbid-reference",
+  "version": "1.0.0",
+  "description": "Structured brand reference data for ExitBid, the listing and auction platform for online businesses.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "exitbid",
+    "online business",
+    "auction",
+    "saas",
+    "listing platform",
+    "brand reference"
+  ],
+  "author": "Alex Web",
+  "license": "MIT",
+  "homepage": "https://exitbid.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Homeboy001k/exitbid-reference.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Homeboy001k/exitbid-reference/issues"
+  }
+}
